@@ -243,7 +243,7 @@ header {
   padding:0px 50px;
   /* background-color: #aee6e6; */
 /*   background-color: #aee6e6; */
-    background: linear-gradient(-68deg,
+    background-color: linear-gradient(-68deg,
      rgb(79, 197, 253), 
      rgb(61,55,239) 77%);
 }
